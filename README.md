@@ -22,7 +22,7 @@ mvn clean install
 mvn exec:java -Dexec.mainClass="edu.unisabana.pizzafactory.consoleview.PreparadorPizza"
 ```
 
-## 📤 Salida Esperada
+##  Salida Esperada
 
 ```text
 === INICIANDO SISTEMA DE PREPARACIÓN DE PIZZAS ===
