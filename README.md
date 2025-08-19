@@ -49,8 +49,6 @@ Paso 4: Horneando...
 
 # SpaceWar 2D
 
-![Game Screenshot](screenshots/gameplay.png) <!-- Agrega una imagen si tienes -->
-
 Un juego 2D de naves espaciales desarrollado en Java, implementando patrones de diseño para una arquitectura limpia y extensible.
 
 ## Características Principales
